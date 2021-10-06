@@ -1,0 +1,16 @@
+article{
+    display: inline-block;
+    background-color: gold;
+    padding: 20px;
+    text-align: auto;
+    border-radius: 20px;
+    margin-left: 40%;
+    box-shadow: gray 3px 3px 3px;
+}
+article p{ 
+    background-color: indianred;
+    padding: 15px;
+    width: 10vw;
+    height: 20vh;
+    text-align: auto;
+}
